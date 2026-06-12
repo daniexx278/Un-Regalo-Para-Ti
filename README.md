@@ -182,6 +182,10 @@ mediante GitHub Pages.
 
 Conectar el repositorio de GitHub a Vercel.
 
+```bash
+https://regalo-liard.vercel.app/
+```
+
 Cada nuevo push realizado sobre la rama principal generará automáticamente un nuevo despliegue.
 
 ---
