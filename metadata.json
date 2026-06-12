@@ -1,0 +1,6 @@
+{
+  "name": "Un Regalo Para Ti",
+  "description": "Una experiencia mágica e interactiva en un universo 3D de galaxias y estrellas, dedicada a felicitar por un gran semestre superado con corazones interactivos y sorpresas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
